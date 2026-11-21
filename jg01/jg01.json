@@ -991,6 +991,11 @@
     }
   ],
 "lives": [{
+            "name": "linux",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/TV/main/zb/today.txt",
+            "playerType": 2
+        },{
             "name": "Kimentanm",
             "type": 0,
             "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",

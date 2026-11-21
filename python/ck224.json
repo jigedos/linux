@@ -1,0 +1,89 @@
+{
+      "urls": [
+
+    {
+      "url": "http://123.57.211.103:6616/mainfirst/box0808.json",
+      "name": " ✅️主线路 1"
+    },
+         {
+      "url": "http://123.57.211.103:6616/mainfirst/main3.json",
+      "name": " ✅专享极速"
+    },  
+    
+       {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/jigedos/java/main/box2006.json",
+      "name": "外服测试"
+    },
+    {
+"url": "http://123.57.211.103:6616/mainfirst/boxv3.json",
+"name": " 🌞 低版本专用1"
+}, 
+    {
+"url": "http://123.57.211.103:6616/boxv3/box.json",
+"name": " 🌞 低版本专用2"
+}, 
+
+        {
+      "url": "http://123.57.211.103:6616/mainsecond/index2.json",
+      "name": " ✅专享二线"
+    },
+     {
+      "url": "http://123.57.211.103:6616/chun/chun.json",
+      "name": " ✅精选线路"
+    },
+    {
+      "url": "http://123.57.211.103:1000/app/svip241011.json",
+      "name": " ✅备用线路"
+    },
+        {
+      "url": "http://123.57.211.103:6616/pg/jsm.json",
+      "name": " ✅️PG线路️"
+    },
+    {
+      "url": "http://123.57.211.103:6616/01pan/01pan.json",
+      "name": "1️⃣【非凡圈子】网盘专线"
+    },
+    {
+      "url": "http://123.57.211.103:6616/2music/2music.json",
+      "name": "2️⃣【非凡圈子】音乐曲艺"
+    },
+    {
+      "url": "http://123.57.211.103:6616/3sports/3sports.json",
+      "name": "3️⃣【非凡圈子】体育电竞"
+    },
+    {
+      "url": "http://123.57.211.103:6616/4child/4child.json",
+      "name": "4️⃣【非凡圈子】儿童学习"
+    },
+    {
+      "url": "http://123.57.211.103:6616/5dj/dj.json",
+      "name": "5️⃣【非凡圈子】短剧　　"
+    },
+    {
+      "url": "http://123.57.211.103:6616/6bili/6bili.json",
+      "name": "6️⃣【非凡圈子】哔哩合集"
+    },
+    {
+      "url": "http://123.57.211.103:6616/7app/7app.json",
+      "name": "7️⃣【非凡圈子】APP内置源"
+    },
+
+
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "▶️qiaoji8"
+    },
+    {
+      "name": "♊mBOXRes",
+      "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
+    },
+    {
+      "name": "♊m烽火线路",
+      "url": "https://raw.githubusercontent.com/atsushi444/tvbox/main/tvbox.json"
+    },
+    {
+      "name": "♊m阿峰专线",
+      "url": "https://raw.githubusercontent.com/xycjf/TV/main/xyfl.json"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "COLLECT",
+    "url": "https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/live2%E5%B8%A6%E6%B8%85%E6%99%B0%E5%BA%A6.txt?ref_type=heads&inline=false&&&https://s1.ax1x.com/2023/06/08/pCkdDKg.jpg"
+  },
+  {
+    "name": "龙龙",
+    "type": 0,
+    "url": "https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/live2%E5%B8%A6%E6%B8%85%E6%99%B0%E5%BA%A6.txt",
+    "epg": ""
+  },
+  {
+    "name": "四千加",
+    "type": 0,
+    "url": "https://qu.ax/kBip.m3u",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "AK47",
+    "type": 0,
+    "url": "https://qu.ax/HtMB.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "千部18+",
+    "type": 0,
+    "url": "https://fastly.jsdelivr.net/gh/xiaolinshao/linshao@main/18%20%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+    "name": "10柠檬18",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/18%2B.txt"
+  },
+  {
+    "name": "abroad1",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/aabadfer/iptv/main/STAR-MARRANO.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "abroad2",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/gluk03/iptvgluk/main/TV.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "abroad3",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/gluk03/iptvgluk/main/tizam.m3u&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "jp",
+    "url": "&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "传媒",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV6.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "A4",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV4.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "A3",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV3.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  },
+  {
+    "name": "fanhao点播",
+    "url": "https://gitee.com/xycjf_1/tv/raw/master/%E7%95%AA%E5%8F%B7%E7%82%B9%E6%92%AD.txtg"
+  },
+  {
+    "name": "亚洲直播：",
+    "url": "https://gitee.com/xycjf_1/tv/raw/master/%E4%BA%9A%E6%B4%B2%E7%9B%B4%E6%92%AD.txtg"
+  },
+  {
+    "name": "TH直播",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/xycjf/TV/main/zb.txtg"
+  },
+  {
+    "name": "浮力研",
+    "url": "https://cloud.lxweb.cn/f/oE2wsY/%E6%B9%BE%E6%B9%BE%E4%B8%80%E5%A4%A9.txtg"
+  },
+  {
+    "name": "格斗技术",
+    "url": "https://cloud.lxweb.cn/f/oE2wsY/%E6%B9%BE%E6%B9%BE%E4%B8%80%E5%A4%A9.txtg"
+  },
+  {
+    "name": "A3",
+    "url": "https://gitee.com/xycjf_1/tv/raw/master/512_092149_v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txtg"
+  },
+  {
+    "name": "HONKONG DOLL",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/AV2.txt&&&https://myhkw.cn/open/img/mm"
+  }
+]

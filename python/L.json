@@ -1,0 +1,136 @@
+
+{
+  "urls": [
+      {
+      "url": "http://123.57.211.103:6616/mainfirst/player0808.json",
+      "name": "圈子线路"
+    }, 
+
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/jigedos/xiaoxiao/main/catvod.json",
+      "name": "省心线路"
+    },
+      {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/guot55/YGBH/main/pro/demo.json",
+      "name": "网盘4K线路"
+    },
+       {
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
+      "name": "幸福"
+    },
+       {
+      "url": "http://123.57.211.103:6616/mainfirst/all.json",
+      "name": "采集线路"
+    },
+          {
+      "url": "http://123.57.211.103:6616/mainfirst/all2.json",
+      "name": "李总线路"
+    },
+           {
+      "url": "https://catbox.n13.club/jk/jsm.json",
+      "name": "测试测试"
+    },
+     {
+      "url": "https://3043.kstore.space/bhvip/bh/box.json",
+      "name": "宝盒没宝"
+    },
+    {
+      "url": "https://tvbox.catvod.com/FongMi.json",
+      "name": "FONGMI真心"
+    },
+    {
+      "url": "https://tvbox.catvod.com/aw/config.json",
+      "name": " 懒羊羊弹幕"
+    },
+{
+      "url": "http://年年幸福.icu/国庆幸福/hyhr.json",
+      "name": "仓库测试"
+    },
+    {
+      "url": "http://年年幸福.icu/动漫帝国/dmtd.json",
+      "name": "动漫帝国"
+    },
+
+    {
+      "url": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "林中的小屋"
+    },
+    {
+      "url": "http://年年幸福.icu/音乐/api.json",
+      "name": "音乐戏曲"
+    },
+    {
+      "url": "http://年年幸福.icu:55/龙潭//龙潭.json",
+      "name": "龙潭"
+    },
+  {
+      "url": "http://年年幸福.icu/澜露/澜露.json",
+      "name": "澜露"
+    },  
+    {
+      "url": "http://xn--hwtam458y.icu:55/流年影视/liunianys.html",
+      "name": "流年影视"
+    },
+    {
+      "url": "https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json",
+      "name": "七星戏曲"
+    },
+    {
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "夏夜4K"
+    },
+    {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "tvbox"
+    },
+    {
+      "url": "http://38.165.20.168/柒豪4K.json",
+      "name": "柒豪"
+    },
+    {
+      "url": "http://枫斗.top/tv",
+      "name": "枫斗"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "潇洒影视"
+    },
+    {
+      "url": "https://9280.kstore.space/wex.json",
+      "name": "王二小"
+    },
+    {
+      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+      "name": "青龙"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "name": "pg"
+    },
+    {
+      "url": "https://cccimg.com/down.php/7d1f30263b3f2bf3deda2d7faeef4844.zhen6",
+      "name": "真六"
+    },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "肥猫"
+    },
+
+    {
+      "name": "瓜子影视",
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin "
+    },
+    {
+      "name": "小米",
+      "url": "http://www.mpanso.com/小米/DEMO.json"
+    },
+    {
+      "name": "蓝天白云",
+      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
+    },
+    {
+      "name": "meow影视",
+      "url": "http://meowtv.cn/tv"
+    }
+  ]
+}

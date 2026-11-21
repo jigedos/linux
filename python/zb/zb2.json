@@ -1,0 +1,19 @@
+[
+
+    {
+    "name": "国剧",
+    "url": "http://23.224.143.163:8868/zb/guju.txt"
+  },
+   {
+    "name": "14部新剧更新",
+    "url": "https://gh.con.sh/https://raw.githubusercontent.com/jigedos/recover_js/master/js/new2024.json"
+  },
+     {
+    "name": "短剧更新",
+    "url": "http://23.224.143.163:8868/zb/duanju.txt"
+  },
+  {
+    "name": "电影合集",
+    "url": "http://23.224.143.163:8868/zb/movie_cn.txt&&&https://s1.ax1x.com/2023/06/27/pCdSGcV.jpg"
+  }
+]
